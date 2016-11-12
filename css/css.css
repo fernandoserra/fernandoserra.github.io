@@ -41,6 +41,10 @@ blockquote{
 	margin-right: 10px;
 	text-align: center;
 }
+.it{
+	margin-top: 20px;
+	margin-left: 20px;
+}
 .fobl{
 	color: #fff;
 }
@@ -77,7 +81,8 @@ blockquote{
 	width: auto; 
 	min-height: 350px; 
 	background: rgba(255, 255, 255, 0.8);
-	border-radius: 3px; 
+	border-radius: 3px;
+	margin-bottom: 10px; 
 }
 .ContSuperior{
 	background-image: url("../diseno/img1.jpg");
