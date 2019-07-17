@@ -13,19 +13,23 @@ blockquote{
 	color: #fff;
 	font-size: 30px;
 }
+
 .nom_in{
 	font-family: 'Days One', sans-serif;
 	color: #fff;
-	font-size: 100px;
+	/*font-size: 100px;*/
+	font-size: calc(4em + 1vw);
 	margin-top: 15%;
 	text-align: center;
 }
 .nom_inSub{
 	font-family: 'Days One', sans-serif;
 	color: #fff;
-	font-size: 50px;
+	/*font-size: 50px;*/
+	font-size: calc(2em + 1vw);
 	text-align: center;
 }
+
 .contRed{
 	margin: 0 auto;
 	width: 250px;
